@@ -751,3 +751,31 @@
   width:213px;
   white-space:nowrap;
 }
+#u110_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:264px;
+  height:147px;
+  background:inherit;
+  background-color:rgba(208, 225, 125, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+#u110 {
+  position:absolute;
+  left:475px;
+  top:152px;
+  width:264px;
+  height:147px;
+}
+#u111 {
+  position:absolute;
+  left:10px;
+  top:10px;
+  width:244px;
+  word-wrap:break-word;
+}
