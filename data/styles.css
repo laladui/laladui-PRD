@@ -61,6 +61,10 @@
 ._文本链接 {
   color:#0000FF;
 }
+._鼠标悬停文本链接时 {
+}
+._鼠标按下文本链接时 {
+}
 .table_cell {
 }
 ._流程形状 {
@@ -204,4 +208,17 @@
   font-weight:400;
   font-style:normal;
   text-align:left;
+}
+.button1 {
+}
+.primary_button1 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+.connector {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
 }
