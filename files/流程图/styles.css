@@ -674,3 +674,39 @@
   width:232px;
   word-wrap:break-word;
 }
+#u1310_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:232px;
+  height:28px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  text-decoration:underline;
+}
+#u1310 {
+  position:absolute;
+  left:227px;
+  top:271px;
+  width:232px;
+  height:28px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  text-decoration:underline;
+}
+#u1311 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:232px;
+  word-wrap:break-word;
+}
