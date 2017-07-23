@@ -96,6 +96,15 @@
   font-size:18px;
   text-align:left;
 }
+._形状 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+}
+._文本框 {
+  color:#000000;
+  text-align:left;
+}
 .label {
   font-size:14px;
   text-align:left;
@@ -113,7 +122,17 @@
 }
 .box_1 {
 }
+.checkbox {
+  text-align:left;
+}
+._复选框 {
+  text-align:left;
+}
 .box_3 {
+}
+.ellipse {
+}
+.image1 {
 }
 ._图片 {
   color:#000000;
@@ -123,7 +142,7 @@
 }
 .flow_shape {
 }
-._形状 {
+._形状1 {
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
@@ -221,4 +240,8 @@
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
+}
+.line {
+}
+._垂直线 {
 }
